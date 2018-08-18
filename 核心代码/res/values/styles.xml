@@ -1,0 +1,15 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- 引导页-->
+    <style name="FullScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>  //设置全屏
+        <item name="android:windowNoTitle">true</item> //设置没有状态栏
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/timg_1" android:duration="90" />
+    <item android:drawable="@drawable/timg_2" android:duration="90" />
+    <item android:drawable="@drawable/timg_3" android:duration="90" />
+    <item android:drawable="@drawable/timg_4" android:duration="90" />
+    <item android:drawable="@drawable/timg_5" android:duration="90" />
+    <item android:drawable="@drawable/timg_6" android:duration="90" />
+    <item android:drawable="@drawable/timg_7" android:duration="90" />
+    <item android:drawable="@drawable/timg_8" android:duration="90" />
+    <item android:drawable="@drawable/timg_9" android:duration="90" />
+    <item android:drawable="@drawable/timg_10" android:duration="90" />
+    <item android:drawable="@drawable/timg_11" android:duration="90" />
+    <item android:drawable="@drawable/timg_12" android:duration="90" />
+    <item android:drawable="@drawable/timg_13" android:duration="90" />
+    <item android:drawable="@drawable/timg_14" android:duration="90" />
+    <item android:drawable="@drawable/timg_15" android:duration="90" />
+    <item android:drawable="@drawable/timg_16" android:duration="90" />
+</animation-list>

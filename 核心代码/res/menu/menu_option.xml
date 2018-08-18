@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/overflow"
+        android:title="更多功能"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/tv_set"  android:title="锻炼计划"  app:showAsAction="withText" android:icon="@mipmap/home_question_mark"/>
+            <item android:id="@+id/tv_data" android:title="历史步数" app:showAsAction="withText" android:icon="@mipmap/home_statistical" />
+        </menu>
+    </item>
+</menu>
+
